@@ -58,6 +58,9 @@ OA综合扫描利用工具1.3
 
 **蓝凌文件读取漏洞**
 
+使用截图：
+![image](https://user-images.githubusercontent.com/80399046/145361703-f2baa4bd-8931-4167-98a1-3ae7336026cb.png)
+![image](https://user-images.githubusercontent.com/80399046/145361870-46f04911-007f-4177-86c9-ed4a4a548041.png)
 
 
 目前收录的历史漏洞较少，但是这个项目回经常维护。欢迎各位联系作者修复bug！
