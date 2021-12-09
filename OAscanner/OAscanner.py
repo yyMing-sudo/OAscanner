@@ -72,14 +72,6 @@ def func(event):
 		t.insert('insert',"开始检测蓝凌OA ..."+"\n")
 		t.insert('insert',str(res)+"\n"+"\n")
 
-	if cho.get() =="通达OA" and e.get() !='':
-		t.delete('1.0','end')
-		res = tongda.run(e.get())
-		t.insert('insert',"开始检测通达OA ..."+"\n")
-		t.insert('insert',str(res[0])+"\n"+"\n")
-		t.insert('insert',str(res[1])+"\n"+"\n")
-		t.insert('insert',str(res[2])+"\n"+"\n")
-
 
 b1 = tkinter.Button(windows,text='Start',width=4,height=0)
 b1.place(x=500,y=10)
